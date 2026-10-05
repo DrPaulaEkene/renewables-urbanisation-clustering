@@ -43,11 +43,11 @@ Data Visualization: Detailed charts and graphs illustrating the clustering resul
 
 How to Run the Project
 
-Clone the repository: git clone https://github.com/DrPaulaEkene/clustering-climate-change.git
+Clone the repository: git clone https://github.com/DrPaulaEkene/renewables-urbanisation-clustering.git
 
 Install required Python packages: pip install numpy pandas matplotlib seaborn scikit-learn scipy statsmodels
 
-Execute the Jupyter notebooks provided to view the analysis and results.
+Run clustering_and_forecasting.py.
 
 
 Contributing
